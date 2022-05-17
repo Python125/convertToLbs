@@ -1,3 +1,1 @@
-# convertToPounds
-
-Converted kilograms to pounds.
+# kilogramsToPounds
